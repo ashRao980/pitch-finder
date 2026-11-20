@@ -4,7 +4,7 @@ Find local soccer pitches in Chicago and organize pickup games.
 
 **Status:** In development. The data pipeline is done, and the API is in progress.
 
-## Features
+## Progress
 
 - [x] Cleaned dataset of 249 Chicago soccer fields 
 - [ ] REST API to list and search pitches by location
